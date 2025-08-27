@@ -5,3 +5,7 @@ aws_secret_access_key = Dbe7btQV8qq6kRxJY7/708aBCK0AFunsBBQAyL4q
 [demo-two]
 aws_access_key_id = AKIA6KJQR5EG6EUOCYVX
 aws_secret_access_key = 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
+
+[demo-three]
+aws_access_key_id = <aws_access_key_id>
+aws_secret_access_key = <aws_secret_access_key>
