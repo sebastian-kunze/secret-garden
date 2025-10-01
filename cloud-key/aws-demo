@@ -1,0 +1,11 @@
+[demo-1]
+aws_access_key_id = AKIA2T2SJH6M3W3LADQE
+aws_secret_access_key = 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
+output = json
+region = us-east-2
+
+[demo-2]
+aws_access_key_id = AKIA2T2SJH6MXTH33UUP
+aws_secret_access_key = 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
+output = json
+region = us-east-2
