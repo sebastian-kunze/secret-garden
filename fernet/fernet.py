@@ -1,9 +1,4 @@
-from cryptography.fernet import Fernet 
+from cryptography.fernet import Fernet
+import sys
 
-key = Fernet.generate_key() # Generated key is below. 
-key = "g11qIt5Z1x56bjNsQoADVOQSIDClnfmc6E6SKBTZJc8=" 
-print(key) 
-
-f = Fernet(key) 
-
-token = f.encrypt(b"A really secret message. Not for prying eyes.")
+sign= "g11qIt5Z1x56bjNsQoADVOQSIDClnfmc6E6SKBTZJc8="
