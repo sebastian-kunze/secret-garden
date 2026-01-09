@@ -1,0 +1,11 @@
+{
+    "cards": [
+        {
+            "issuer": "Visa",
+            "cardholder_name": "SAMUEL L. JACKSON",
+            "credit_card_number": "4367970156679725",
+            "expiration_date": "10/2028",
+            "cvv": "243"
+        }
+    ]
+},
